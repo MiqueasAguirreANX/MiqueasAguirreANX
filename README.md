@@ -1,10 +1,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiqueasAguirreANX&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 Software developer
+
 Web: 
   * Django + DRF + Fiber 
   * Jquery + Angular + Material + SCSS 
   * Sqlite, Postgresql, go KV db
+
+
 Scripting:
   * Python + GO + PowerShell
 
