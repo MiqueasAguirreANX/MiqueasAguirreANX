@@ -4,7 +4,7 @@ Software developer
 
 Web: 
   * Django + DRF + Gin + Fiber
-  * Jquery + Svelte + Carbon + Less 
+  * Reactjs + Jquery + vanillajs + Less 
   * Sqlite, Postgresql, go KV db
 
 
