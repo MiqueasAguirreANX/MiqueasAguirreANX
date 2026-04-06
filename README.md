@@ -10,37 +10,23 @@ I'm a Fullstack Developer and Backend Lead with over 5 years of experience speci
 
 ### 🧠 Core Technical Skills
 
-**Architecture & Infrastructure** ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![HAProxy](https://img.shields.io/badge/HAProxy-191A1B?style=for-the-badge&logo=haproxy&logoColor=white)
+**Architecture & Infrastructure** ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![HAProxy](https://img.shields.io/badge/HAProxy-191A1B?style=for-the-badge&logo=haproxy&logoColor=white)
 
-**Backend Development** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF4088?style=for-the-badge&logo=rocket&logoColor=white)
+**Backend Development** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-FF4088?style=for-the-badge&logo=rocket&logoColor=white)
 
-**Databases & Message Brokers** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+**Databases & Message Brokers** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
-**Artificial Intelligence & Data** ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
+**Artificial Intelligence & Data** ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=openai&logoColor=white)
 
-**Frontend** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Frontend** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
 ### 💼 Experience Highlights
 
 * **Infrastructure & IoT (Daitek):** Designed high-availability infrastructure (PostgreSQL, CrateDB, Kafka clusters) and orchestrated a mesh network of MQTT brokers. Developed an anomaly detection microservice for multi-tenant IoT data environments using Machine Learning.
-* **Consulting & SaaS Architecture (Freelance):** Designed SaaS platforms including comprehensive Pharmacy management systems, integrated regional payment gateways (Mercado Pago), and implemented complex data analysis solutions for the European market and worldwide Crypto projects.
-* **AI Integration:** Spearheaded the integration of Generative AI into enterprise workflows, leveraging Google Gemini and local LLMs (Mistral 119B) alongside Cursor to maximize code efficiency and automate processes.
+* **Fullstack & Cyber Security (Kensa):** Work on the rapid end-to-end development of Cyber Security MVPs, engineered scalable fullstack solutions (Python/Django, React.js), and streamlined delivery cycles with automated CI/CD pipelines.
+* **Consulting & SaaS Architecture (Freelance):** Designed SaaS platforms including comprehensive Pharmacy management systems, integrated regional payment gateways, and implemented data analysis solutions for the European market and Crypto projects. Spearheaded Generative AI integration using Google Gemini, local LLMs, and Cursor to maximize code efficiency.
 
 ---
 
