@@ -1,12 +1,10 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiqueasAguirreANX&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
+
 # Hi there 👋, I'm Miqueas Aguirre
 
 ### 🚀 Backend Lead & Cloud Architect | AI Integration Specialist
 
 I'm a Fullstack Developer and Backend Lead with over 5 years of experience specializing in designing scalable architectures, integrating enterprise machine learning models, and managing high-availability infrastructure. I am passionate about solving complex infrastructure challenges, leveraging Generative AI to build autonomous pipelines, and optimizing the performance of critical systems.
-
-<div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiqueasAguirreANX&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 ---
 
