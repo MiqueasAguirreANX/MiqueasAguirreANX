@@ -1,6 +1,4 @@
-<div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiqueasAguirreANX&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiqueasAguirreANX&show_icons=true&count_private=true&theme=tokyonight&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 # Hi there 👋, I'm Miqueas Aguirre
 
