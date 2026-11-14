@@ -6,7 +6,7 @@
 
   <!-- Dynamic Typing Telemetry -->
   <a href="https://github.com/MiqueasAguirreANX">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=%3E+Architecting+High-Availability+Distributed+Systems+%26+Fault-Tolerant+Clusters;%3E+Orchestrating+MQTT+Broker+Meshes%2C+Kafka+Streams+%26+Industrial+IoT+Telemetry;%3E+Deploying+Real-Time+ML+Anomaly+Detection+%26+Local+LLMs+(Mistral+119B+%2F+Ollama);%3E+Scaling+Async+Python+Microservices+(FastAPI+%E2%80%A2+Django+%E2%80%A2+Django-Bolt+%E2%80%A2+Asyncio)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&height=42&lines=%3E+High-Availability+Distributed+Architecture;%3E+MQTT+Broker+Mesh%2C+Kafka+%26+Industrial+IoT;%3E+Real-Time+ML+Anomaly+Detection+%26+Local+LLMs;%3E+Async+Python%3A+FastAPI+%E2%80%A2+Django-Bolt+%E2%80%A2+Asyncio" alt="Typing SVG" />
   </a>
 
   <p align="center">
